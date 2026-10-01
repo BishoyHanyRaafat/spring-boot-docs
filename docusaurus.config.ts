@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://BishoyHanyRaafat.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/spring-boot-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'BishoyHanyRaafat', // Usually your GitHub org/user name.
+  projectName: 'spring-boot-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -87,7 +87,6 @@ const config: Config = {
           position: 'left',
           label: 'Lessons',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
       ],
     },
     footer: {
@@ -97,8 +96,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Roadmap',
+              to: '/docs/roadmap',
             },
           ],
         },
@@ -123,12 +122,8 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/BishoyHanyRaafat/spring-boot-docs',
             },
           ],
         },

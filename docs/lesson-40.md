@@ -1,5 +1,5 @@
 ---
-title: Lesson 40: API Gateway + Spring Cloud Gateway
+title: "Lesson 40: API Gateway + Spring Cloud Gateway"
 sidebar_position: 40
 ---
 

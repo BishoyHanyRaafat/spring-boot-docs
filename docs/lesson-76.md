@@ -1,5 +1,5 @@
 ---
-title: Lesson 76: Kafka Partitioning, Concurrency, Ordering & Retry
+title: "Lesson 76: Kafka Partitioning, Concurrency, Ordering & Retry"
 sidebar_position: 76
 ---
 

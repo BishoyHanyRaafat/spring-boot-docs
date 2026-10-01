@@ -1,5 +1,5 @@
 ---
-title: Lesson 18: Real Users, Password Hashing, UserDetails, and Authentication
+title: "Lesson 18: Real Users, Password Hashing, UserDetails, and Authentication"
 sidebar_position: 18
 ---
 

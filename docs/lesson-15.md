@@ -1,5 +1,5 @@
 ---
-title: Lesson 15: Database Migrations with Flyway
+title: "Lesson 15: Database Migrations with Flyway"
 sidebar_position: 15
 ---
 

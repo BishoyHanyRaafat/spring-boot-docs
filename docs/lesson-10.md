@@ -1,5 +1,5 @@
 ---
-title: Lesson 10: PostgreSQL & SQL Fundamentals
+title: "Lesson 10: PostgreSQL & SQL Fundamentals"
 sidebar_position: 10
 ---
 

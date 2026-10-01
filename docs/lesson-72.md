@@ -1,5 +1,5 @@
 ---
-title: Lesson 72: Kafka vs RabbitMQ
+title: "Lesson 72: Kafka vs RabbitMQ"
 sidebar_position: 72
 ---
 

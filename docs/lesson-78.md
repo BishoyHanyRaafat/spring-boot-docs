@@ -1,5 +1,5 @@
 ---
-title: Lesson 78: Kafka Event Contracts & Schema Evolution
+title: "Lesson 78: Kafka Event Contracts & Schema Evolution"
 sidebar_position: 78
 ---
 

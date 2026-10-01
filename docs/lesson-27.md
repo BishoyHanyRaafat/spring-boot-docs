@@ -1,5 +1,5 @@
 ---
-title: Lesson 27: Integration Testing with PostgreSQL & Testcontainers
+title: "Lesson 27: Integration Testing with PostgreSQL & Testcontainers"
 sidebar_position: 27
 ---
 

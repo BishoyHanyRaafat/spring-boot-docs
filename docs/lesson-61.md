@@ -1,5 +1,5 @@
 ---
-title: Lesson 61: Advanced JPA Concurrency
+title: "Lesson 61: Advanced JPA Concurrency"
 sidebar_position: 61
 ---
 

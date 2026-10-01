@@ -1,5 +1,5 @@
 ---
-title: Lesson 62: Spring Transactions Deep Dive
+title: "Lesson 62: Spring Transactions Deep Dive"
 sidebar_position: 62
 ---
 

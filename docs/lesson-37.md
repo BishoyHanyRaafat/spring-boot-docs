@@ -1,5 +1,5 @@
 ---
-title: Lesson 37: RabbitMQ Deep Dive + Building the ProjectHub Event System
+title: "Lesson 37: RabbitMQ Deep Dive + Building the ProjectHub Event System"
 sidebar_position: 37
 ---
 

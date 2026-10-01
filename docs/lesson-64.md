@@ -1,5 +1,5 @@
 ---
-title: Lesson 64: Building the Outbox in ProjectHub
+title: "Lesson 64: Building the Outbox in ProjectHub"
 sidebar_position: 64
 ---
 

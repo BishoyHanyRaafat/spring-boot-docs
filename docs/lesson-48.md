@@ -1,5 +1,5 @@
 ---
-title: Lesson 48: Kubernetes Fundamentals
+title: "Lesson 48: Kubernetes Fundamentals"
 sidebar_position: 48
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 52: Kubernetes Scaling & Reliability
+title: "Lesson 52: Kubernetes Scaling & Reliability"
 sidebar_position: 52
 ---
 

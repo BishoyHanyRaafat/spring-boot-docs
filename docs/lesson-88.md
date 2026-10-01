@@ -1,5 +1,5 @@
 ---
-title: Lesson 88: Production Configuration & Environment Management
+title: "Lesson 88: Production Configuration & Environment Management"
 sidebar_position: 88
 ---
 

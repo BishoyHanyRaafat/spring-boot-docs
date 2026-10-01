@@ -1,5 +1,5 @@
 ---
-title: Lesson 49: CI CD From Git Commit to Production
+title: "Lesson 49: CI CD From Git Commit to Production"
 sidebar_position: 49
 ---
 

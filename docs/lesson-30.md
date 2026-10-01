@@ -1,5 +1,5 @@
 ---
-title: Lesson 30: Actuator, Health Checks, Metrics & Observability
+title: "Lesson 30: Actuator, Health Checks, Metrics & Observability"
 sidebar_position: 30
 ---
 

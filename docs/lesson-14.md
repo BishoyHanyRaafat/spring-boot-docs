@@ -1,5 +1,5 @@
 ---
-title: Lesson 14: Querying with Spring Data JPA
+title: "Lesson 14: Querying with Spring Data JPA"
 sidebar_position: 14
 ---
 

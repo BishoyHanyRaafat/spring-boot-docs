@@ -1,5 +1,5 @@
 ---
-title: Lesson 5: Spring Boot Starters, Auto-Configuration SpringApplication
+title: "Lesson 5: Spring Boot Starters, Auto-Configuration SpringApplication"
 sidebar_position: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 66: Building the Multi-Pod Outbox Publisher
+title: "Lesson 66: Building the Multi-Pod Outbox Publisher"
 sidebar_position: 66
 ---
 

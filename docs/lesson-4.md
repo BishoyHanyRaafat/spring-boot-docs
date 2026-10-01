@@ -1,5 +1,5 @@
 ---
-title: Lesson 4: —@Bean, @Configuration,@Primary, and @Qualifier
+title: "Lesson 4: —@Bean, @Configuration,@Primary, and @Qualifier"
 sidebar_position: 4
 ---
 

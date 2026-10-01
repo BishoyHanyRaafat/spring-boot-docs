@@ -1,5 +1,5 @@
 ---
-title: Lesson 1: What problem does Spring actually solve?
+title: "Lesson 1: What problem does Spring actually solve?"
 sidebar_position: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 8: DTOs, Validation & Clean API Design
+title: "Lesson 8: DTOs, Validation & Clean API Design"
 sidebar_position: 8
 ---
 

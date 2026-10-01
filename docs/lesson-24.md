@@ -1,5 +1,5 @@
 ---
-title: Lesson 24: Resource-Level Authorization
+title: "Lesson 24: Resource-Level Authorization"
 sidebar_position: 24
 ---
 

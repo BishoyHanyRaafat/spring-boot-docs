@@ -1,5 +1,5 @@
 ---
-title: Lesson 56: Kubernetes Observability
+title: "Lesson 56: Kubernetes Observability"
 sidebar_position: 56
 ---
 

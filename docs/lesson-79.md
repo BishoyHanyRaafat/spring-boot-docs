@@ -1,5 +1,5 @@
 ---
-title: Lesson 79: Actually Implementing the ProjectHub Kafka Event Contract
+title: "Lesson 79: Actually Implementing the ProjectHub Kafka Event Contract"
 sidebar_position: 79
 ---
 

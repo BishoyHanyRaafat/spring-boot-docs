@@ -1,5 +1,5 @@
 ---
-title: Lesson 45: Database Scaling Indexes, Read Replicas, Sharding, and High Traffic Design
+title: "Lesson 45: Database Scaling Indexes, Read Replicas, Sharding, and High Traffic Design"
 sidebar_position: 45
 ---
 

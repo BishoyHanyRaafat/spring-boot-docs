@@ -1,5 +1,5 @@
 ---
-title: Lesson 36: Messaging with RabbitMQ Building Asynchronous Systems
+title: "Lesson 36: Messaging with RabbitMQ Building Asynchronous Systems"
 sidebar_position: 36
 ---
 

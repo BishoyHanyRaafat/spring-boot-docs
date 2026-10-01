@@ -1,5 +1,5 @@
 ---
-title: Lesson 17: Spring Security Fundamentals
+title: "Lesson 17: Spring Security Fundamentals"
 sidebar_position: 17
 ---
 

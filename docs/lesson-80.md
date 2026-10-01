@@ -1,5 +1,5 @@
 ---
-title: Lesson 80: Testing Spring Boot Properly
+title: "Lesson 80: Testing Spring Boot Properly"
 sidebar_position: 80
 ---
 

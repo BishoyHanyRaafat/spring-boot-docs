@@ -1,5 +1,5 @@
 ---
-title: Lesson 65: Implementing the Outbox Pattern
+title: "Lesson 65: Implementing the Outbox Pattern"
 sidebar_position: 65
 ---
 

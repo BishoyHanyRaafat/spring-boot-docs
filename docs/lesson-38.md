@@ -1,5 +1,5 @@
 ---
-title: Lesson 38: Building a Complete Event-Driven ProjectHub Feature
+title: "Lesson 38: Building a Complete Event-Driven ProjectHub Feature"
 sidebar_position: 38
 ---
 

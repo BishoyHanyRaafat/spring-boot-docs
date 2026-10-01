@@ -1,5 +1,5 @@
 ---
-title: Lesson 25: Custom Authorization Policies & Project-Scoped Permissions
+title: "Lesson 25: Custom Authorization Policies & Project-Scoped Permissions"
 sidebar_position: 25
 ---
 

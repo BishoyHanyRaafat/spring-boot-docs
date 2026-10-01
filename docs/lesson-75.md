@@ -1,5 +1,5 @@
 ---
-title: Lesson 75: Kafka + Outbox
+title: "Lesson 75: Kafka + Outbox"
 sidebar_position: 75
 ---
 

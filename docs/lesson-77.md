@@ -1,5 +1,5 @@
 ---
-title: Lesson 77: Kafka vs RabbitMQ in the Real ProjectHub Architecture
+title: "Lesson 77: Kafka vs RabbitMQ in the Real ProjectHub Architecture"
 sidebar_position: 77
 ---
 

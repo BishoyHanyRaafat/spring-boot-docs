@@ -1,5 +1,5 @@
 ---
-title: Lesson 13: Transactions & the Persistence Context
+title: "Lesson 13: Transactions & the Persistence Context"
 sidebar_position: 13
 ---
 

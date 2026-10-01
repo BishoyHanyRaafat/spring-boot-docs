@@ -1,5 +1,5 @@
 ---
-title: Lesson 46: Messaging Systems RabbitMQ, Kafka, Events, and Event-Driven Architecture
+title: "Lesson 46: Messaging Systems RabbitMQ, Kafka, Events, and Event-Driven Architecture"
 sidebar_position: 46
 ---
 

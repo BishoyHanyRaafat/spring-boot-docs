@@ -1,5 +1,5 @@
 ---
-title: Lesson 50: Kubernetes in Practice Deploying ProjectHub
+title: "Lesson 50: Kubernetes in Practice Deploying ProjectHub"
 sidebar_position: 50
 ---
 

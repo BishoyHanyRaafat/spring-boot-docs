@@ -1,5 +1,5 @@
 ---
-title: Lesson 28: Test Isolation, Fixtures & the Full Authorization Matrix
+title: "Lesson 28: Test Isolation, Fixtures & the Full Authorization Matrix"
 sidebar_position: 28
 ---
 

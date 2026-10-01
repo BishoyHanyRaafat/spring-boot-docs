@@ -1,5 +1,5 @@
 ---
-title: Lesson 93: The Complete ProjectHub Architecture
+title: "Lesson 93: The Complete ProjectHub Architecture"
 sidebar_position: 93
 ---
 

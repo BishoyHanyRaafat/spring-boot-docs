@@ -1,5 +1,5 @@
 ---
-title: Lesson 16: Building a Real REST Feature with JPA
+title: "Lesson 16: Building a Real REST Feature with JPA"
 sidebar_position: 16
 ---
 

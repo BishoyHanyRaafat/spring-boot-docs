@@ -1,5 +1,5 @@
 ---
-title: Lesson 32: Docker for Spring Boot
+title: "Lesson 32: Docker for Spring Boot"
 sidebar_position: 32
 ---
 

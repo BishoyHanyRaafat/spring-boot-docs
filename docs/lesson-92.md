@@ -1,5 +1,5 @@
 ---
-title: Lesson 92: Production Deployment
+title: "Lesson 92: Production Deployment"
 sidebar_position: 92
 ---
 

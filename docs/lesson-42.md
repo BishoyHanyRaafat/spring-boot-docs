@@ -1,5 +1,5 @@
 ---
-title: Lesson 42: Distributed Security JWT Between Microservices
+title: "Lesson 42: Distributed Security JWT Between Microservices"
 sidebar_position: 42
 ---
 

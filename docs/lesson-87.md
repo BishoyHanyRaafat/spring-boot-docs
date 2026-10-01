@@ -1,5 +1,5 @@
 ---
-title: Lesson 87: Testing Kafka and the Outbox
+title: "Lesson 87: Testing Kafka and the Outbox"
 sidebar_position: 87
 ---
 

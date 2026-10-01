@@ -1,5 +1,5 @@
 ---
-title: Lesson 11: JPA, Hibernate & Spring Data JPA
+title: "Lesson 11: JPA, Hibernate & Spring Data JPA"
 sidebar_position: 11
 ---
 

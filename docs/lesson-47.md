@@ -1,5 +1,5 @@
 ---
-title: Lesson 47: Containers and Docker for Spring Boot Applications
+title: "Lesson 47: Containers and Docker for Spring Boot Applications"
 sidebar_position: 47
 ---
 

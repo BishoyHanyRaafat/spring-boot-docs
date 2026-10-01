@@ -1,5 +1,5 @@
 ---
-title: Lesson 12: JPA Relationships in Depth
+title: "Lesson 12: JPA Relationships in Depth"
 sidebar_position: 12
 ---
 

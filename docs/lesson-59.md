@@ -1,5 +1,5 @@
 ---
-title: Lesson 59: Distributed Systems
+title: "Lesson 59: Distributed Systems"
 sidebar_position: 59
 ---
 

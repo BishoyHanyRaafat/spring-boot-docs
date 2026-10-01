@@ -1,5 +1,5 @@
 ---
-title: Lesson 31: Production Logging
+title: "Lesson 31: Production Logging"
 sidebar_position: 31
 ---
 

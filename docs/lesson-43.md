@@ -1,5 +1,5 @@
 ---
-title: Lesson 43: Observability Logs, Metrics, Tracing, and Debugging Microservices
+title: "Lesson 43: Observability Logs, Metrics, Tracing, and Debugging Microservices"
 sidebar_position: 43
 ---
 

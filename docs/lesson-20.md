@@ -1,5 +1,5 @@
 ---
-title: Lesson 20: Login with AuthenticationManager
+title: "Lesson 20: Login with AuthenticationManager"
 sidebar_position: 20
 ---
 

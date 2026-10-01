@@ -1,5 +1,5 @@
 ---
-title: Lesson 35: Implementing Redis Caching in Spring Boot
+title: "Lesson 35: Implementing Redis Caching in Spring Boot"
 sidebar_position: 35
 ---
 

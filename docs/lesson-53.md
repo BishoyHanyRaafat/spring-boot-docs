@@ -1,5 +1,5 @@
 ---
-title: Lesson 53: Kubernetes Storage & Stateful Applications
+title: "Lesson 53: Kubernetes Storage & Stateful Applications"
 sidebar_position: 53
 ---
 

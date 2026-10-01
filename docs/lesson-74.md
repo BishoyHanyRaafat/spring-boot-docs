@@ -1,5 +1,5 @@
 ---
-title: Lesson 74: Kafka Reliability Retries, DLTs & Idempotency
+title: "Lesson 74: Kafka Reliability Retries, DLTs & Idempotency"
 sidebar_position: 74
 ---
 

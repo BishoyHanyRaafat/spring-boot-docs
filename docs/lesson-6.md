@@ -1,5 +1,5 @@
 ---
-title: Lesson 6: Configuration & Properties
+title: "Lesson 6: Configuration & Properties"
 sidebar_position: 6
 ---
 

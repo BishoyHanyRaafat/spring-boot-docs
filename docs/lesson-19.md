@@ -1,5 +1,5 @@
 ---
-title: Lesson 19: Database-Backed Roles & Permissions
+title: "Lesson 19: Database-Backed Roles & Permissions"
 sidebar_position: 19
 ---
 

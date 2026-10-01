@@ -1,5 +1,5 @@
 ---
-title: Lesson 70: Reliable RabbitMQ Confirms, Retries, DLQ, and Idempotency
+title: "Lesson 70: Reliable RabbitMQ Confirms, Retries, DLQ, and Idempotency"
 sidebar_position: 70
 ---
 

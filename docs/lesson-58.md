@@ -1,5 +1,5 @@
 ---
-title: Lesson 58: Performance Engineering
+title: "Lesson 58: Performance Engineering"
 sidebar_position: 58
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 23: Refresh Tokens, Logout, Revocation & Permission Changes
+title: "Lesson 23: Refresh Tokens, Logout, Revocation & Permission Changes"
 sidebar_position: 23
 ---
 

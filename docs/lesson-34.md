@@ -1,5 +1,5 @@
 ---
-title: Lesson 34: Redis & Caching
+title: "Lesson 34: Redis & Caching"
 sidebar_position: 34
 ---
 

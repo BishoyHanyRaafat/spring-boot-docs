@@ -1,5 +1,5 @@
 ---
-title: Lesson 2: Letting Spring Build the Object Graph
+title: "Lesson 2: Letting Spring Build the Object Graph"
 sidebar_position: 2
 ---
 

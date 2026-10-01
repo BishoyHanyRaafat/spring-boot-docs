@@ -1,5 +1,5 @@
 ---
-title: Lesson 55: Production Security Architecture
+title: "Lesson 55: Production Security Architecture"
 sidebar_position: 55
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 44: Caching in Spring Boot Redis, Cache Strategies, and Performance
+title: "Lesson 44: Caching in Spring Boot Redis, Cache Strategies, and Performance"
 sidebar_position: 44
 ---
 

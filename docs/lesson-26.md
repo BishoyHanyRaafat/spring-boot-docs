@@ -1,5 +1,5 @@
 ---
-title: Lesson 26: Testing Spring Security
+title: "Lesson 26: Testing Spring Security"
 sidebar_position: 26
 ---
 

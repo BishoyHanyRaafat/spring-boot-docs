@@ -1,5 +1,5 @@
 ---
-title: Lesson 60: Advanced Database Concurrency
+title: "Lesson 60: Advanced Database Concurrency"
 sidebar_position: 60
 ---
 

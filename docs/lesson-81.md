@@ -1,5 +1,5 @@
 ---
-title: Lesson 81: Spring Integration Tests
+title: "Lesson 81: Spring Integration Tests"
 sidebar_position: 81
 ---
 

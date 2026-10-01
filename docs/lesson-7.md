@@ -1,5 +1,5 @@
 ---
-title: Lesson 7: Building REST APIs with Spring Boot
+title: "Lesson 7: Building REST APIs with Spring Boot"
 sidebar_position: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 3: Beans, ApplicationContext, and Component Scanning
+title: "Lesson 3: Beans, ApplicationContext, and Component Scanning"
 sidebar_position: 3
 ---
 

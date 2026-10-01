@@ -1,5 +1,5 @@
 ---
-title: Lesson 29: Production Configuration & Profiles
+title: "Lesson 29: Production Configuration & Profiles"
 sidebar_position: 29
 ---
 

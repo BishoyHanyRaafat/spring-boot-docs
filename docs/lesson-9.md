@@ -1,5 +1,5 @@
 ---
-title: Lesson 9: Error Handling with @ControllerAdvice
+title: "Lesson 9: Error Handling with @ControllerAdvice"
 sidebar_position: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 21: JWT Authentication
+title: "Lesson 21: JWT Authentication"
 sidebar_position: 21
 ---
 

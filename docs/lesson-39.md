@@ -1,5 +1,5 @@
 ---
-title: Lesson 39: Microservices Architecture Splitting ProjectHub Properly
+title: "Lesson 39: Microservices Architecture Splitting ProjectHub Properly"
 sidebar_position: 39
 ---
 

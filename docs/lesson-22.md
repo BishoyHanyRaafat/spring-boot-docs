@@ -1,5 +1,5 @@
 ---
-title: Lesson 22: Actually Building JWT Authentication
+title: "Lesson 22: Actually Building JWT Authentication"
 sidebar_position: 22
 ---
 

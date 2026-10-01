@@ -1,5 +1,5 @@
 ---
-title: Lesson 71: Ordering, Duplicates, and Concurrent Consumers
+title: "Lesson 71: Ordering, Duplicates, and Concurrent Consumers"
 sidebar_position: 71
 ---
 

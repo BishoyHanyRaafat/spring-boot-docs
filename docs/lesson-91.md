@@ -1,5 +1,5 @@
 ---
-title: Lesson 91: CI CD
+title: "Lesson 91: CI CD"
 sidebar_position: 91
 ---
 

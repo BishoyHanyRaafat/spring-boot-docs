@@ -1,5 +1,5 @@
 ---
-title: Lesson 33: Docker Compose
+title: "Lesson 33: Docker Compose"
 sidebar_position: 33
 ---
 

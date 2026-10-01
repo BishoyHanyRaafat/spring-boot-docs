@@ -1,5 +1,5 @@
 ---
-title: Lesson 41: Service-to-Service Communication REST, OpenFeign, gRPC, and Events
+title: "Lesson 41: Service-to-Service Communication REST, OpenFeign, gRPC, and Events"
 sidebar_position: 41
 ---
 

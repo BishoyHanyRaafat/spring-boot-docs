@@ -1,5 +1,5 @@
 ---
-title: Lesson 73: Kafka in Practice with Spring Boot
+title: "Lesson 73: Kafka in Practice with Spring Boot"
 sidebar_position: 73
 ---
 

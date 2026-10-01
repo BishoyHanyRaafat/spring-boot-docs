@@ -1,5 +1,5 @@
 ---
-title: Lesson 84: Database Integration Tests
+title: "Lesson 84: Database Integration Tests"
 sidebar_position: 84
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 54: Kubernetes Security
+title: "Lesson 54: Kubernetes Security"
 sidebar_position: 54
 ---
 

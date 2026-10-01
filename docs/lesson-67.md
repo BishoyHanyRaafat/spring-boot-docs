@@ -1,5 +1,5 @@
 ---
-title: Lesson 67: RabbitMQ in ProjectHub
+title: "Lesson 67: RabbitMQ in ProjectHub"
 sidebar_position: 67
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 85: Real PostgreSQL with Testcontainers
+title: "Lesson 85: Real PostgreSQL with Testcontainers"
 sidebar_position: 85
 ---
 

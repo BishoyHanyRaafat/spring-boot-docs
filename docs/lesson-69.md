@@ -1,5 +1,5 @@
 ---
-title: Lesson 69: Building the RabbitMQ Pipeline in ProjectHub
+title: "Lesson 69: Building the RabbitMQ Pipeline in ProjectHub"
 sidebar_position: 69
 ---
 

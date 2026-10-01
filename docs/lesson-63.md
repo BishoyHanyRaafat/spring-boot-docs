@@ -1,5 +1,5 @@
 ---
-title: Lesson 63: Transactions + Events + Outbox
+title: "Lesson 63: Transactions + Events + Outbox"
 sidebar_position: 63
 ---
 

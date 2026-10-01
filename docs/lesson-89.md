@@ -1,5 +1,5 @@
 ---
-title: Lesson 89: Production Logging & Observability
+title: "Lesson 89: Production Logging & Observability"
 sidebar_position: 89
 ---
 

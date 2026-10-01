@@ -1,5 +1,5 @@
 ---
-title: Lesson 51: Ingress & Gateway Getting Real HTTP Traffic into Kubernetes
+title: "Lesson 51: Ingress & Gateway Getting Real HTTP Traffic into Kubernetes"
 sidebar_position: 51
 ---
 
