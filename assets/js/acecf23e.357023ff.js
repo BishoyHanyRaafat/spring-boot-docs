@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/spring-boot-docs/blog","blogTitle":"Blog","authorsListPath":"/spring-boot-docs/blog/authors"}')}}]);
