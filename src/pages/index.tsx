@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/roadmap">
-            Start Learning $\rightarrow$
+            Start Learning ➡️
           </Link>
         </div>
       </div>
